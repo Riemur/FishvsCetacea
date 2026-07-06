@@ -1,0 +1,78 @@
+﻿Common Name,Family,GenusSpecies,Genus,Wmax,Ymax,Lmax,Lengthmax type,Ym,Lm,Fmin,Fmax,Favg,Tg,Si (year),Loffspring,K,Lat N,Lat S,Region,Additional,Sources
+Franciscana dolphin,Pontoporiidae,Pontoporia blainvillei,Pontoporia,53,21,177,TL,2.7,NA,1,1,1,10.8,2,77.5,NA,NA,NA,Southwest Atlantic,Woffspring=8,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254964, https://doi.org/10.1016/B978-0-12-804327-1.00133-3"
+Hector's dolphin,Delphinidae,Cephalorhynchus hectori,Cephalorhynchus,57,19,130,TL,8,127,1,1,1,NA,2.5,76.6,NA,NA,NA,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254979, https://sealifebase.org/summary/Cephalorhynchus-hectori.html, 
+https://doi.org/10.1139/z91-234"
+Harbor porpoise,Phocoenidae,Phocoena phocoena,Phocoena,70,20,200,TL,3.5,145,1,1,1,10.5,1,NA,NA,NA,NA,Atlantic,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137117, https://doi.org/10.1016/B978-0-12-804327-1.00144-8, https://www.sealifebase.ca/summary/Phocoena-phocoena.html"
+Northern right whale dolphin,Delphinidae,Lissodelphis borealis,Lissodelphis,116,NA,230,TL,9.7,199.8,1,1,1,NA,NA,100,NA,34 - 55,NA,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254975, https://www.sealifebase.ca/summary/Lissodelphis-borealis.html, https://doi.org/10.1016/B978-0-12-804327-1.00216-8"
+Irrawaddy dolphin,Delphinidae,Orcaella brevirostris,Orcaella,150,NA,220,TL,NA,NA,1,1,1,14,NA,NA,NA,NA,NA,NA,NA,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=148732, https://doi.org/10.1016/B978-0-12-804327-1.00161-8"
+Rough-toothed dolphin,Delphinidae,Steno bredanensis,Steno,150,36,280,TL,10,216,1,1,1,NA,NA,100,NA,NA,NA,Japansese waters,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137110, https://www.sealifebase.ca/summary/Steno-bredanensis.html, https://doi.org/10.1016/B978-0-12-804327-1.00223-5"
+Striped dolphin,Delphinidae,Stenella coeruleoalba,Stenella,156,57.5,256,TL,8.5,218,1,1,1,12.5,NA,NA,NA,NA,NA,,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137107, https://doi.org/10.1016/B978-0-12-804327-1.00251-X, https://www.sealifebase.ca/summary/Stenella-coeruleoalba.html"
+Dall's porpoise,Phocoenidae,Phocoenoides dalli,Phocoenoides,200,NA,220,TL,5,179,1,1,1,11,NA,100,NA,NA,NA,Central- and Western North Pacific,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254987, https://doi.org/10.1016/B978-0-12-804327-1.00004-2, https://www.sealifebase.ca/summary/Phocoenoides-dalli.html"
+Fraser's dolphin,Delphinidae,Lagenodelphis hosei,Lagenodelphis ,210,19,260,TL,6.5,,1,1,1,12.5,2,,NA,30,30,,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137099, https://doi.org/10.1016/B978-0-12-804327-1.00134-5"
+Common Dolphin,Delphinidae,Delphinus delphis,Delphinus,235,30,235,TL,9,186.5,1,1,1,11,4,87,NA,NA,NA,"Western Atlantic, Eastern Pacific",,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137094, https://doi.org/10.1016/B978-0-12-804327-1.00095-9, https://doi.org/10.1139/z06-188"
+Melon-headed whale,Delphinidae,Peponocephala electra,Peponocephala,275,45,278,TL,7,225,1,1,1,NA,3.5,110,NA,NA,NA,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137102, https://www.sealifebase.ca/summary/Peponocephala-electra.html"
+Indo-Pacific humpback dolphin,Delphinidae,Sousa chinensis,Sousa,284,40,250,TL,12.5,235,1,1,1,11,,101,NA,NA,NA,Chinese waters,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=220226, https://doi.org/10.1016/B978-0-12-804327-1.00153-9"
+White-beaked dolphin,Delphinidae,Lagenorhynchus albirostris,Lagenorhynchus,360,34,320,TL,8.7,240,1,1,1,11,NA,120,NA,NA,,,Woffspring=40kg,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137101, https://doi.org/10.1016/B978-0-12-804327-1.00274-0"
+Risso's dolphin,Delphinidae,Grampus griseus,Grampus,500,50,400,TL,9,,1,1,1,13,2.4,NA,NA,90,90,NA,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137098
+Pygmy sperm whale,Kogiidae,Kogia breviceps,Kogia,515,22,430,TL,5,275,1,1,1,11.5,NA,120,NA,NA,NA,NA,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137113
+Common bottlenose dolphin,Delphinidae,Tursiops truncatus,Tursiops,650,67,380,TL,8.5,NA,1,1,1,12.5,3.5,112,NA,NA,NA,"Sarasota Bay, Florida",,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137111, https://doi.org/10.1016/B978-0-12-804327-1.00072-8, https://www.sealifebase.ca/summary/Tursiops-truncatus.html, https://doi.org/10.3389/fmars.2025.1531528"
+Blainville's beaked whale,Ziphiidae,Mesoplodon densirostris,Mesoplodon,1000,NA,470,NA,9,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137122, https://doi.org/10.1016/B978-0-12-804327-1.00172-2"
+Beluga whale,Monodontodae,Delphinapterus leucas,Delphinapterus,1600,80,410,TL,10.5,NA,1,1,1,14.25,3,NA,NA,90,0,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137115, https://www.sealifebase.ca/summary/Delphinapterus-leucas.html, https://doi.org/10.1016/B978-0-12-804327-1.00065-0"
+Narwhal,Monodontodae,Monodon monoceros ,Monodon,1600,100,420,TL,8.5,340,1,1,1,NA,NA,NA,NA,NA,NA,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137116, https://www.sealifebase.ca/summary/Monodon-monoceros.html, https://doi.org/10.1016/B978-0-12-804327-1.00013-3"
+False killer whale,Delphinidae,Pseudorca crassidens,Pseudorca,2000,65,500,TL,10.5,396.5,1,1,1,NA,6.5,1.8,NA,NA,NA,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137104, https://www.sealifebase.ca/summary/Pseudorca-crassidens.html, https://doi.org/10.1016/B978-0-12-804327-1.00006-6"
+Long-finned pilot whale,Delphinidae,Globicephala melas,Globicephala,2500,60,600,TL,8,NA,1,1,1,NA,NA,NA,NA,90,90,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137097, https://doi.org/10.1016/B978-0-12-804327-1.00194-1"
+Cuviers beaked whale,Ziphiidae,Ziphius cavirostris,Ziphius,3000,30,700,TL,NA,580,1,1,1,NA,6,NA,NA,NA,NA,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137127, https://sealifebase.org/summary/Ziphius-cavirostris.html, https://doi.org/10.1016/B978-0-12-804327-1.00100-X"
+Killer whale,Delphinidae,Orcinus orca,Orcinus,4700,90,850,TL,12,615,1,1,1,16.5,5,225,,90,90,NA,Woffspring=200,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=343990, https://doi.org/10.1016/B978-0-12-804327-1.00010-8, https://www.sealifebase.ca/summary/Orcinus-orca.html"
+Baird's beaked whale,Ziphiidae,Berardius bairdii,Berardius,12000,54,1280,TL,12.5,10.2,1,1,1,17,NA,4.6,NA,NA,NA,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=242608, https://doi.org/10.1016/B978-0-12-804327-1.00066-2, https://sealifebase.org/summary/Berardius-bairdii.html"
+Sperm whale,Physeteridae,Physeter macrocephalus,Physeter,15000,60,1200,TL,9,900,1,1,1,15,5,400,NA,NA,NA,NA,"Encyclopedia of MM: 'Sperm Whale is the epitome of the ""K-selected"" mammal.."" ","https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137119, https://www.sealifebase.ca/summary/Physeter-macrocephalus.html, https://doi.org/10.1016/B978-0-12-804327-1.00242-9, https://openknowledge.fao.org/items/cfd56ecd-1af8-4c5d-9158-628ae69ec904"
+Pygmy kille whale,Delphinidae,Feresa attenuata,Feresa,NA,NA,260,TL,NA,NA,1,1,1,NA,NA,80,NA,40,35,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137095, https://doi.org/10.1016/B978-0-12-804327-1.00210-7"
+North Atlantic bottlenose whale,Ziphiidae,Hyperoodon ampullatus,Hyperoodon,NA,37,870,TL,NA,10.5,1,1,1,12,2,NA,NA,NA,NA,,,"http://marinespecies.org/cetacea/aphia.php?p=taxdetails&id=343899, https://sealifebase.org/summary/Hyperoodon-ampullatus.html"
+Indo-Pacific beaked whale,Ziphiidae,Indopacetus pacificus,Indopacetus,NA,22,648,TL,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=231418
+Finless porpoise,Phocoenidae,Neophocaena phocaenoides,Neophocaena,NA,30,227,TL,5,140,1,1,1,11,2,78.2,NA,NA,NA,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254985, https://doi.org/10.1016/B978-0-12-804327-1.00129-1, https://www.sealifebase.ca/summary/Neophocaena-phocaenoides.html, https://doi.org/10.1111/j.1748-7692.1993.tb00472.x"
+Sheperd's beaked whale,Ziphiidae,Tasmacetus shepherdi,Tasmacetus,NA,23,660,TL,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=231433, https://doi.org/10.1016/B978-0-12-804327-1.00227-2, https://sealifebase.org/summary/Tasmacetus-shepherdi.html"
+Hector,Ziphiidae,Berardius arnuxii,Berardius,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=242606
+Hector,Ziphiidae,Berardius minimus,Berardius,,,,,,,1,1,1,,,,,81 - 27,NA,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=1576136
+Hector,Delphinidae,Cephalorhynchus heavisidii,Cephalorhynchus,,,,,,,1,1,1,,,,,,,NA,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254978
+Hector,Delphinidae,Cephalorhynchus eutropia ,Cephalorhynchus,,,,,,,1,1,1,,,,,,,NA,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254977
+Hector,Delphinidae,Cephalorhynchus commersonii,Cephalorhynchus,,,,,,,1,1,1,,,,,,,NA,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137094
+Short-finned pilot whale,Delphinidae,Globicephala macrorhynchus,Globicephala,,,,,9,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137096
+Hector,Ziphiidae,Hyperoodon planifrons,Hyperoodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=343900
+Hector,Iniidae,Inia araguaiaensis,Inia,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=751685
+Hector,Iniidae,Inia boliviensis,Inia,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=384210
+Hector,Iniidae,Inia geoffrensis,Inia,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254960
+Dwarf sperm whale,Kogiidae,Kogia sima,Kogia,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=159025
+Hector,Delphinidae,Lagenorhynchus obscurus,Lagenorhynchus,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=231434
+Hector,Lipotidae,Lipotes vexillifer,Lipotes,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254962
+Southern right whale dolphin,Delphinidae,Lissodelphis peronii,Lissodelphis,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=231414
+Hector,Ziphiidae,Mesoplodon bidens,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137121
+Hector,Ziphiidae,Mesoplodon bowdoini,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=231430
+Hector,Ziphiidae,Mesoplodon carlhubbsi,Mesoplodon,,,,,,,1,1,1,,,2.5,,,,,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254990, https://doi.org/10.1016/B978-0-12-804327-1.00172-2"
+Hector,Ziphiidae,Mesoplodon eueu,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=1567463
+Hector,Ziphiidae,Mesoplodon europaeus,Mesoplodon,,27,,,,,1,1,1,,,,,,,,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137123, https://doi.org/10.1016/B978-0-12-804327-1.00172-2"
+Hector,Ziphiidae,Mesoplodon ginkgodens,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=231407
+Hector,Ziphiidae,Mesoplodon grayi,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137124
+Hector,Ziphiidae,Mesoplodon hectori,Mesoplodon,,,,,,,1,1,1,,,190,,,,,,"https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137125, https://doi.org/10.1016/B978-0-12-804327-1.00172-2"
+Hector,Ziphiidae,Mesoplodon hotaula,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=384422
+Hector,Ziphiidae,Mesoplodon layardii,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=231429
+Hector,Ziphiidae,Mesoplodon mirus,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137126
+Hector,Ziphiidae,Mesoplodon perrini,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254992
+Hector,Ziphiidae,Mesoplodon peruvianus,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=231409
+Hector,Ziphiidae,Mesoplodon stejnegeri,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254991
+Hector,Ziphiidae,Mesoplodon traversii,Mesoplodon,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254993
+Hector,Phocoenidae,Neophocaena asiaeorientalis,Neophocaena,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=446125
+Hector,Delphinidae,Orcaella heinsohni,Orcaella,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=343990
+Hector,Phocoenidae,Phocoena dioptrica,Phocoena,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254971
+Hector,Phocoenidae,Phocoena sinus,Phocoena,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=343897
+Hector,Phocoenidae,Phocoena spinipinnis,Phocoena,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254987
+Hector,Platanistidae,Platanista gangetica,Platanista,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254966
+Hector,Delphinidae,Sotalia fluviatilis,Sotalia,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254982
+Hector,Delphinidae,Sotalia guianensis,Sotalia,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=344009
+Hector,Delphinidae,Sousa plumbea,Sousa,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=383586
+Hector,Delphinidae,Sousa sahulensis,Sousa,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=816452
+Hector,Delphinidae,Sousa teuszii,Sousa,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254970
+Hector,Delphinidae,Stenella attenuata,Stenella,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137105
+Hector,Delphinidae,Stenella clymene,Stenella,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137106
+Hector,Delphinidae,Stenella frontalis,Stenella,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137108
+Hector,Delphinidae,Stenella longirostris,Stenella,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=137109
+Hector,Delphinidae,Tursiops aduncus,Tursiops,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=254983
+Hector,Delphinidae,Tursiops australis,Tursiops,,,,,,,1,1,1,,,,,,,,,https://www.marinespecies.org/cetacea/aphia.php?p=taxdetails&id=584858
